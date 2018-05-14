@@ -1,4 +1,4 @@
-package com.example.wahyuadjieprasetyo.iakkedua;
+package com.example.wahyuadjieprasetyo.proyek_indonesia_kejar;
 
 import org.junit.Test;
 

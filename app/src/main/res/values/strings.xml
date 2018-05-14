@@ -1,8 +1,3 @@
 <resources>
-    <string name="app_name">IAK kedua</string>
-    <string name="contoh_list_view">comtoh list view</string>
-    <string name="nama_buah">nama buah</string>
-    <string name="title_activity_detail_buah">DetailBuahActivity</string>
-    <string name="harga_buah">harga_buah</string>
-    <string name="detail_buah">detail_buah</string>
+    <string name="app_name">Aplikasi Quiz</string>
 </resources>
