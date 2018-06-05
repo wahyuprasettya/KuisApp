@@ -1,2 +1,1 @@
-# Ku
-Console.log('hello word');
+Projek akhir android indonesia kejar
